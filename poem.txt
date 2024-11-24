@@ -6,5 +6,6 @@ Hail
 Sunshine
 Snow
 Thunder
+Umbrella
 
 The Rain and The Rainbow
