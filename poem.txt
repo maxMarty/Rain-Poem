@@ -4,5 +4,6 @@ Rain
 Sleet
 Hail
 Sunshine
+Snow
 
 The Rain
